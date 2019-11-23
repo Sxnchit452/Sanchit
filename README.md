@@ -1,2 +1,2 @@
 # Sanchit
-New to program
+New to programing
